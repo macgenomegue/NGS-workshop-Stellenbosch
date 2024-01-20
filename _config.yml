@@ -4,7 +4,7 @@ description:        Scientific Programme for the workshop "Advanced Applications
 author:             Stellenbosch University, South Africa and University College Dublin, Ireland
 
 baseurl:            "/"
-url:                "https://macgenomegue.github.io/"
+url:                "https://macgenomegue.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
