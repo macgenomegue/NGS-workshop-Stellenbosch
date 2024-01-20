@@ -3,8 +3,8 @@ email:              your-email@example.com
 description:        Scientific Programme for the workshop "Advanced Applications of Next Generation Sequencing in Food Safety"
 author:             Stellenbosch University, South Africa and University College Dublin, Ireland
 
-baseurl:            "https://github.com/macgenomegue/try_web/"
-url:                "https://github.com/macgenomegue/try_web/"
+baseurl:            "https://macgenomegue.github.io/NGS-workshop-Stellenbosch/"
+url:                "https://macgenomegue.github.io/NGS-workshop-Stellenbosch/"
 
 # Social Profiles
 twitter_username:   SBootstrap
