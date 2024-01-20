@@ -1,9 +1,10 @@
-title:              Clean Blog
+title:              Advanced Applications of Next Generation Sequencing and Bioinformatics in Food Safety Blog
 email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+description:        Scientific Programme for the workshop "Advanced Applications of Next Generation Sequencing in Food Safety"
+author:             Stellenbosch University, South Africa and University College Dublin, Ireland
+
+baseurl:            "https://github.com/macgenomegue/try_web/"
+url:                "https://github.com/macgenomegue/try_web/"
 
 # Social Profiles
 twitter_username:   SBootstrap
