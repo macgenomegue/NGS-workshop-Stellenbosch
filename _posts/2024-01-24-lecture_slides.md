@@ -8,7 +8,7 @@ background: '/img/pano_lake_UCD.jpg'
 Here are the slides for the workshop:
 
 - [Day 1 - Dr Guerrino Macori - Introduction to Sequencing and Next-Generation Sequencing](/NGS-workshop-Stellenbosch/Workshop_Stellenbosch_day1_intro_gm.pdf)
-- [Day 1 - Dr Guerrino Macori - Introduction to Bioinformatics](/NGS-workshop-Stellenbosch/Workshop_Stellenbosch_day1_bioinformatics_gm.pdf)
+- [Day 1 - Dr Guerrino Macori - Introduction to Bioinformatics](_posts/Workshop_Stellenbosch_day1_bioinformatics_gm.pdf)
 - [Day 2 - Dr Guerrino Macori - Introduction to Galaxy](/NGS-workshop-Stellenbosch/Workshop_Stellenbosch_day2_galaxy_gm.pdf)
 - [Day 2 - Dr Guerrino Macori - How to set a Virtual Machine](/NGS-workshop-Stellenbosch/Workshop_Stellenbosch_day2_w1_Virtual_machine_gm.pdf)
 - [Day 2 - Dr Guerrino Macori - What is a pipeline and analysis of data on Galaxy](/NGS-workshop-Stellenbosch/Workshop_Stellenbosch_day2_pipelines_gm)
