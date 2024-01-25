@@ -7,10 +7,10 @@ background: '/img/pano_lake_UCD.jpg'
 
 Here are the slides for the workshop:
 
-- [Day 1 - Dr Guerrino Macori - Introduction to Sequencing and Next-Generation Sequencing](/Workshop_Stellenbosch_day1_intro_gm.pdf)
-- [Day 1 - Dr Guerrino Macori - Introduction to Bioinformatics](/Workshop_Stellenbosch_day1_bioinformatics_gm.pdf)
-- [Day 2 - Dr Guerrino Macori - Introduction to Galaxy](/Workshop_Stellenbosch_day2_galaxy_gm.pdf)
-- [Day 2 - Dr Guerrino Macori - How to set a Virtual Machine](/Workshop_Stellenbosch_day2_w1_Virtual_machine_gm.pdf)
-- [Day 2 - Dr Guerrino Macori - What is a pipeline and analysis of data on Galaxy](/Workshop_Stellenbosch_day2_pipelines_gm.pdf)
-- [Day 3 - Dr Guerrino Macori - Whole Genome Sequencing - Assembly of Bacterial Genomes](/Workshop_Stellenbosch_day3_assembly_gm.pdf)
-- [Day 3 - Dr Guerrino Macori - Metagenomics, introduction to Data Analysis and Case Studies](/Workshop_Stellenbosch_day3_metagenomics_gm.pdf)
+- [Day 1 - Dr Guerrino Macori - Introduction to Sequencing and Next-Generation Sequencing](/_posts/Workshop_Stellenbosch_day1_intro_gm.pdf)
+- [Day 1 - Dr Guerrino Macori - Introduction to Bioinformatics](/_posts/Workshop_Stellenbosch_day1_bioinformatics_gm.pdf)
+- [Day 2 - Dr Guerrino Macori - Introduction to Galaxy](/_posts/Workshop_Stellenbosch_day2_galaxy_gm.pdf)
+- [Day 2 - Dr Guerrino Macori - How to set a Virtual Machine](/_posts/Workshop_Stellenbosch_day2_w1_Virtual_machine_gm.pdf)
+- [Day 2 - Dr Guerrino Macori - What is a pipeline and analysis of data on Galaxy](/_posts/Workshop_Stellenbosch_day2_pipelines_gm.pdf)
+- [Day 3 - Dr Guerrino Macori - Whole Genome Sequencing - Assembly of Bacterial Genomes](/_posts/Workshop_Stellenbosch_day3_assembly_gm.pdf)
+- [Day 3 - Dr Guerrino Macori - Metagenomics, introduction to Data Analysis and Case Studies](/_posts/Workshop_Stellenbosch_day3_metagenomics_gm.pdf)
