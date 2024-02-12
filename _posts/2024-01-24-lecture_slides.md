@@ -17,4 +17,4 @@ Here are the slides for the workshop:
 - [Day 2 - Prof Séamus Fanning - Using genome sequencing to study food-borne bacterial adaptation](/NGS-workshop-Stellenbosch/assets/assets/sf_stellenbosch2024-1-23.pdf)
 - [Day 3 - Dr Guerrino Macori - Whole Genome Sequencing - Assembly of Bacterial Genomes](/NGS-workshop-Stellenbosch/assets/Workshop_Stellenbosch_day3_assembly_gm.pdf)
 - [Day 3 - Dr Christina Killian - High-throughput FL-16S rRNA gene sequencing: rapid and accurate identification of bacterial species](/NGS-workshop-Stellenbosch/assets/Workshop_Stellenbosch_day3_lab2_ck.pdf)
-- - [Day 3 - Dr Guerrino Macori - Metagenomics, introduction to Data Analysis and Case Studies](/NGS-workshop-Stellenbosch/assets/Workshop_Stellenbosch_day3_metagenomics_gm.pdf)
+- [Day 3 - Dr Guerrino Macori - Metagenomics, introduction to Data Analysis and Case Studies](/NGS-workshop-Stellenbosch/assets/Workshop_Stellenbosch_day3_metagenomics_gm.pdf)
